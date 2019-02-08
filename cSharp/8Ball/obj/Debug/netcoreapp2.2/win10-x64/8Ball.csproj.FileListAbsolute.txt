@@ -1,0 +1,14 @@
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\bin\Debug\netcoreapp2.2\win10-x64\8Ball.exe
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\bin\Debug\netcoreapp2.2\win10-x64\8Ball.deps.json
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\bin\Debug\netcoreapp2.2\win10-x64\8Ball.runtimeconfig.json
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\bin\Debug\netcoreapp2.2\win10-x64\8Ball.runtimeconfig.dev.json
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\bin\Debug\netcoreapp2.2\win10-x64\8Ball.dll
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\bin\Debug\netcoreapp2.2\win10-x64\8Ball.pdb
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\obj\Debug\netcoreapp2.2\win10-x64\8Ball.csprojAssemblyReference.cache
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\obj\Debug\netcoreapp2.2\win10-x64\8Ball.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\obj\Debug\netcoreapp2.2\win10-x64\8Ball.AssemblyInfoInputs.cache
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\obj\Debug\netcoreapp2.2\win10-x64\8Ball.AssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\obj\Debug\netcoreapp2.2\win10-x64\8Ball.dll
+C:\Users\bbdnet1944\Desktop\Bootcamp\8Ball\obj\Debug\netcoreapp2.2\win10-x64\8Ball.pdb

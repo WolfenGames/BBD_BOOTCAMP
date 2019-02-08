@@ -1,0 +1,17 @@
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.deps.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.runtimeconfig.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.runtimeconfig.dev.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.pdb
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\ArabicNumberConverter.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\bin\Debug\netcoreapp2.2\ArabicNumberConverter.pdb
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\obj\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.csprojAssemblyReference.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\obj\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\obj\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.AssemblyInfoInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\obj\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.AssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\obj\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.csproj.CopyComplete
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\obj\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter_UnitTests\obj\Debug\netcoreapp2.2\ArabicNumberConverter_UnitTests.pdb

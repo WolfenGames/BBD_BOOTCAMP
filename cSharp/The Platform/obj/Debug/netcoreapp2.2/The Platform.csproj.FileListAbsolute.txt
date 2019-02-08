@@ -1,0 +1,11 @@
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\bin\Debug\netcoreapp2.2\The Platform.deps.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\bin\Debug\netcoreapp2.2\The Platform.runtimeconfig.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\bin\Debug\netcoreapp2.2\The Platform.runtimeconfig.dev.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\bin\Debug\netcoreapp2.2\The Platform.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\bin\Debug\netcoreapp2.2\The Platform.pdb
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\obj\Debug\netcoreapp2.2\The Platform.csprojAssemblyReference.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\obj\Debug\netcoreapp2.2\The Platform.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\obj\Debug\netcoreapp2.2\The Platform.AssemblyInfoInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\obj\Debug\netcoreapp2.2\The Platform.AssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\obj\Debug\netcoreapp2.2\The Platform.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\The Platform\obj\Debug\netcoreapp2.2\The Platform.pdb

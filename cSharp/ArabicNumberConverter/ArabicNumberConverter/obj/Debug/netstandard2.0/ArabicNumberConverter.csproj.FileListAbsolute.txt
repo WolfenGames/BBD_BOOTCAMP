@@ -1,0 +1,9 @@
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter\bin\Debug\netstandard2.0\ArabicNumberConverter.deps.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter\bin\Debug\netstandard2.0\ArabicNumberConverter.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter\bin\Debug\netstandard2.0\ArabicNumberConverter.pdb
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter\obj\Debug\netstandard2.0\ArabicNumberConverter.csprojAssemblyReference.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter\obj\Debug\netstandard2.0\ArabicNumberConverter.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter\obj\Debug\netstandard2.0\ArabicNumberConverter.AssemblyInfoInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter\obj\Debug\netstandard2.0\ArabicNumberConverter.AssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter\obj\Debug\netstandard2.0\ArabicNumberConverter.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\ArabicNumberConverter\ArabicNumberConverter\obj\Debug\netstandard2.0\ArabicNumberConverter.pdb

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\bbdnet1944\\Desktop\\BBD_BOOTCAMP\\cSharp\\arrays-and-stuff\\arrays-and-stuff.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

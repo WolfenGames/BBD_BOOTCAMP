@@ -1,0 +1,11 @@
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\bin\Debug\netcoreapp2.2\arrays-and-stuff.deps.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\bin\Debug\netcoreapp2.2\arrays-and-stuff.runtimeconfig.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\bin\Debug\netcoreapp2.2\arrays-and-stuff.runtimeconfig.dev.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\bin\Debug\netcoreapp2.2\arrays-and-stuff.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\bin\Debug\netcoreapp2.2\arrays-and-stuff.pdb
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\obj\Debug\netcoreapp2.2\arrays-and-stuff.csprojAssemblyReference.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\obj\Debug\netcoreapp2.2\arrays-and-stuff.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\obj\Debug\netcoreapp2.2\arrays-and-stuff.AssemblyInfoInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\obj\Debug\netcoreapp2.2\arrays-and-stuff.AssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\obj\Debug\netcoreapp2.2\arrays-and-stuff.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\arrays-and-stuff\obj\Debug\netcoreapp2.2\arrays-and-stuff.pdb

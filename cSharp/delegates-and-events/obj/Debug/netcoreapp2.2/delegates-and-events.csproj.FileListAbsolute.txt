@@ -1,0 +1,11 @@
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\bin\Debug\netcoreapp2.2\delegates-and-events.deps.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\bin\Debug\netcoreapp2.2\delegates-and-events.runtimeconfig.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\bin\Debug\netcoreapp2.2\delegates-and-events.runtimeconfig.dev.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\bin\Debug\netcoreapp2.2\delegates-and-events.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\bin\Debug\netcoreapp2.2\delegates-and-events.pdb
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\obj\Debug\netcoreapp2.2\delegates-and-events.csprojAssemblyReference.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\obj\Debug\netcoreapp2.2\delegates-and-events.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\obj\Debug\netcoreapp2.2\delegates-and-events.AssemblyInfoInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\obj\Debug\netcoreapp2.2\delegates-and-events.AssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\obj\Debug\netcoreapp2.2\delegates-and-events.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\delegates-and-events\obj\Debug\netcoreapp2.2\delegates-and-events.pdb

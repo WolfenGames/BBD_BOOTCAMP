@@ -1,0 +1,11 @@
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\bin\Debug\netcoreapp2.2\indexers-and-stuff.deps.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\bin\Debug\netcoreapp2.2\indexers-and-stuff.runtimeconfig.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\bin\Debug\netcoreapp2.2\indexers-and-stuff.runtimeconfig.dev.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\bin\Debug\netcoreapp2.2\indexers-and-stuff.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\bin\Debug\netcoreapp2.2\indexers-and-stuff.pdb
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\obj\Debug\netcoreapp2.2\indexers-and-stuff.csprojAssemblyReference.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\obj\Debug\netcoreapp2.2\indexers-and-stuff.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\obj\Debug\netcoreapp2.2\indexers-and-stuff.AssemblyInfoInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\obj\Debug\netcoreapp2.2\indexers-and-stuff.AssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\obj\Debug\netcoreapp2.2\indexers-and-stuff.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\indexers-and-stuff\obj\Debug\netcoreapp2.2\indexers-and-stuff.pdb

@@ -1,0 +1,14 @@
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\obj\Debug\netcoreapp2.2\WebApiLAB.csprojAssemblyReference.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\obj\Debug\netcoreapp2.2\WebApiLAB.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\obj\Debug\netcoreapp2.2\WebApiLAB.RazorAssemblyInfo.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\obj\Debug\netcoreapp2.2\WebApiLAB.RazorAssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\obj\Debug\netcoreapp2.2\WebApiLAB.AssemblyInfoInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\obj\Debug\netcoreapp2.2\WebApiLAB.AssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\bin\Debug\netcoreapp2.2\WebApiLAB.deps.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\bin\Debug\netcoreapp2.2\WebApiLAB.runtimeconfig.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\bin\Debug\netcoreapp2.2\WebApiLAB.runtimeconfig.dev.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\bin\Debug\netcoreapp2.2\WebApiLAB.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\bin\Debug\netcoreapp2.2\WebApiLAB.pdb
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\obj\Debug\netcoreapp2.2\WebApiLAB.RazorTargetAssemblyInfo.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\obj\Debug\netcoreapp2.2\WebApiLAB.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\ASPNET\WebApiLAB\obj\Debug\netcoreapp2.2\WebApiLAB.pdb

@@ -1,0 +1,39 @@
+﻿@model List<LAB.Models.Person>
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>View</h1>
+<div class="container-fluid">
+    <hr />
+    <a asp-action="Add"><input type="button" value="Add a user" class="btn btn-default w-100"/></a>
+    <hr />
+    <table class="table w-100">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Department</th>
+                <th scope="col">Years</th>
+                <th scope="col">Edit</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <th scope="row">@p.Id</th>
+                <td>@p.Name</td>
+                <td>@p.Department</td>
+                <td>@p.Years</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@p.Id"><input type="button" value="EDIT" class="btn btn-default" /></a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@p.Id"><input type="button" value="DELETE" class="btn btn-default" /></a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

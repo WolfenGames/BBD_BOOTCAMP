@@ -1,0 +1,10 @@
+@{
+    ViewData["Title"] = "Say HI!";
+}
+
+<ul>
+    @for (int i = 0; i < (int)ViewData["ID"]; i++)
+    {
+        <li> @ViewData["Message"] - @ViewData["ID"] - @i </li>
+    }
+</ul>

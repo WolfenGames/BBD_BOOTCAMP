@@ -1,0 +1,11 @@
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\obj\Debug\netcoreapp2.2\iterators-linq-lamba.csprojAssemblyReference.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\obj\Debug\netcoreapp2.2\iterators-linq-lamba.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\obj\Debug\netcoreapp2.2\iterators-linq-lamba.AssemblyInfoInputs.cache
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\obj\Debug\netcoreapp2.2\iterators-linq-lamba.AssemblyInfo.cs
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\bin\Debug\netcoreapp2.2\iterators-linq-lamba.deps.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\bin\Debug\netcoreapp2.2\iterators-linq-lamba.runtimeconfig.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\bin\Debug\netcoreapp2.2\iterators-linq-lamba.runtimeconfig.dev.json
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\bin\Debug\netcoreapp2.2\iterators-linq-lamba.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\bin\Debug\netcoreapp2.2\iterators-linq-lamba.pdb
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\obj\Debug\netcoreapp2.2\iterators-linq-lamba.dll
+C:\Users\bbdnet1944\Desktop\BBD_BOOTCAMP\cSharp\iterators-linq-lamba\obj\Debug\netcoreapp2.2\iterators-linq-lamba.pdb
