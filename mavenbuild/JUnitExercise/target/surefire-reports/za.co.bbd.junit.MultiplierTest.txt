@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: za.co.bbd.junit.MultiplierTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in za.co.bbd.junit.MultiplierTest
+multiply(za.co.bbd.junit.MultiplierTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Should be equal expected:<9> but was:<1>
+	at za.co.bbd.junit.MultiplierTest.multiply(MultiplierTest.java:14)
+

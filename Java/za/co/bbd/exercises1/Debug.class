@@ -1,0 +1,8 @@
+package za.co.bbd.exercises1;
+
+public class Debug {
+    public void log(String s)
+    {
+        System.out.println(s);
+    }
+}
