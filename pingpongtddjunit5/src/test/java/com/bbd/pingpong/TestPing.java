@@ -47,8 +47,9 @@ public class TestPing {
     }
 
     @Test
-    public void whenTestPassedEmptyStringReturn0() {
-        assertEquals(0, RomanConverter.convert(""));
+    public void whenTestPassedEmptyStringReturnException() {
+        Exception ex = assertThrows(IllegalArgumentException.class, () -> RomanConverter.convert("          "));
+        assertEquals("Reference String Can't be empty", ex.getMessage());
     }
 
     @Test
@@ -83,7 +84,7 @@ public class TestPing {
     }
 
     @ParameterizedTest
-    @CsvSource({"ild, Invalid Character Order", "mim, Invalid Character Order", "IXIX, Invalid Character Order"})
+    @CsvSource({"ild, Invalid Character Order", "mim, Invalid Character Order", "IXIX, Invalid Character Order", "IIIIVVVXXXXCCCCDDD, Invalid Character Order"})
     public void testWithCsvSource(String roman, String expectedErrorMessage) {
         Exception ex = assertThrows(IllegalArgumentException.class, () -> RomanConverter.convert(roman));
         assertEquals(expectedErrorMessage, ex.getMessage());

@@ -1,5 +1,7 @@
 package com.bbd.pingpong;
 
+import com.sun.javaws.exceptions.InvalidArgumentException;
+
 import java.util.*;
 import java.util.regex.Pattern;
 
@@ -17,12 +19,11 @@ public class RomanConverter {
     }
 
     public static int convert(String inputString) {
-        //TODO: FIX THIS SHIT!
-
-
         if (inputString == null)
             throw new NullPointerException("Reference String can't be null");
-        if (inputString.length() == 0) return 0;
+        inputString = inputString.trim();
+        if (inputString.length() == 0 || inputString.isEmpty())
+            throw new IllegalArgumentException("Reference String Can't be empty");
         String newString = inputString.toUpperCase();
 
         for (char c : newString.toCharArray()) {
@@ -34,18 +35,17 @@ public class RomanConverter {
             throw new IllegalArgumentException("Invalid Character Order");
 
         int total = 0;
-        int last_Value = 0;
-        char[] s_Array = newString.toCharArray();
+        int lastValue = 0;
+        char[] sArray = newString.toCharArray();
 
         for (int i = newString.length() - 1; i >= 0; i--) {
-            int new_Value = reference.get(s_Array[i]);
+            int newValue = reference.get(sArray[i]);
 
-            if (new_Value < last_Value)
-                total -= new_Value;
+            if (newValue < lastValue)
+                total -= newValue;
             else {
-
-                total += new_Value;
-                last_Value = new_Value;
+                total += newValue;
+                lastValue = newValue;
             }
         }
         return total;
