@@ -1,0 +1,42 @@
+<header ng-switch on="$location.path().indexOf('/Celebrities/new') > -1">
+    <h3 ng-switch-when="true">Create a new Celebrity</h3>
+    <h3 ng-switch-when="false">View or edit Celebrity</h3>
+</header>
+<form id="CelebrityForm" name="CelebrityForm" class="form-horizontal" role="form">
+    
+
+    <div class="form-group" ng-class="{'has-error': CelebrityForm.name.$invalid}">
+        <label for="name" class="col-sm-2 control-label">Name</label>
+        <div id="nameControls" class="col-sm-10">
+            <input id="name" name="name" type="text" required class="form-control" ng-model="celebrity.name" placeholder="Enter the Celebrity Name"></input>
+            <span class="help-block error" ng-show="CelebrityForm.name.$error.required">required</span> 
+        </div>
+    </div>
+
+    <div class="form-group" ng-class="{'has-error': CelebrityForm.surname.$invalid}">
+        <label for="surname" class="col-sm-2 control-label">Surname</label>
+        <div id="surnameControls" class="col-sm-10">
+            <input id="surname" name="surname" type="text" required class="form-control" ng-model="celebrity.surname" placeholder="Enter the Celebrity Surname"></input>
+            <span class="help-block error" ng-show="CelebrityForm.surname.$error.required">required</span> 
+        </div>
+    </div>
+
+    <div class="form-group" ng-class="{'has-error': CelebrityForm.vote.$invalid}">
+        <label for="vote" class="col-sm-2 control-label">Vote</label>
+        <div id="voteControls" class="col-sm-10">
+            <input id="vote" name="vote" type="number" min="1" max="10" class="form-control" ng-model="celebrity.vote" placeholder="Enter the Celebrity Vote"></input>
+            <span class="help-block error" ng-show="CelebrityForm.vote.$error.number">not a number</span>
+            <span class="help-block error" ng-show="CelebrityForm.vote.$error.min">minimum allowed is 1</span>
+            <span class="help-block error" ng-show="CelebrityForm.vote.$error.max">maximum allowed is 10</span>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <button id="saveCelebrity" name="saveCelebrity" class="btn btn-primary" ng-disabled="isClean() || CelebrityForm.$invalid" ng-click="save()"><span class="glyphicon glyphicon-ok-sign"></span> Save</button>
+            <button id="cancel" name="cancel" class="btn btn-default" ng-click="cancel()"><span class="glyphicon glyphicon-remove-sign"></span> Cancel</button>
+            <button id="deleteCelebrity" name="deleteCelebrity" class="btn btn-danger" ng-show="celebrity.id" ng-click="remove()"><span class="glyphicon glyphicon-trash"></span> Delete</button>
+        </div>
+    </div>
+</form>

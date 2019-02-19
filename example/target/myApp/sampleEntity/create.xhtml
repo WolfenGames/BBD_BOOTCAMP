@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:c="http://java.sun.com/jsp/jstl/core"
+	template="/resources/scaffold/pageTemplate.xhtml">
+
+	<f:metadata>
+		<f:viewParam name="id" value='#{sampleEntityBean.id}'/>
+		<f:event type="preRenderView" listener='#{sampleEntityBean.retrieve}'/>
+	</f:metadata>
+
+	<ui:param name="pageTitle" value="Create Sample Entity"/>
+
+	<ui:define name="header">
+		Sample Entity
+	</ui:define>
+
+	<ui:define name="subheader">
+		<c:choose>
+			<c:when test='#{!empty sampleEntityBean.id}'>
+				Edit existing Sample Entity
+			</c:when>
+			<c:otherwise>
+				Create a new Sample Entity
+			</c:otherwise>
+		</c:choose>
+	</ui:define>
+
+	<ui:define name="footer"/>
+
+	<ui:define name="main">
+		<h:form id="create">
+			<h:messages globalOnly="true" styleClass="error"/>
+
+			<h:panelGrid columnClasses="label,component,required" columns="3">
+				<h:outputLabel for="sampleEntityBeanSampleEntitySampleField" value="Sample Field:"/>
+				<h:panelGroup>
+					<h:inputText id="sampleEntityBeanSampleEntitySampleField" value="#{sampleEntityBean.sampleEntity.sampleField}"/>
+					<h:message for="sampleEntityBeanSampleEntitySampleField" styleClass="error"/>
+				</h:panelGroup>
+				<h:outputText/>
+				<h:outputLabel for="sampleEntityBeanSampleEntityCreatedOn" value="Created On:"/>
+				<h:panelGroup>
+					<h:inputText id="sampleEntityBeanSampleEntityCreatedOn" value="#{sampleEntityBean.sampleEntity.createdOn}">
+						<f:convertDateTime pattern="MMM d, yyyy hh:mm:ss a" type="both"/>
+					</h:inputText>
+					<h:message for="sampleEntityBeanSampleEntityCreatedOn" styleClass="error"/>
+				</h:panelGroup>
+				<h:outputText/>
+			</h:panelGrid>
+
+			<div class="buttons">
+				<h:commandLink value="Save" action='#{sampleEntityBean.update}' styleClass="btn btn-primary"/>
+				<c:choose>
+					<c:when test='#{!empty sampleEntityBean.id}'>
+						<h:link value="Cancel" outcome="view" styleClass="btn btn-primary">
+							<f:param name="id" value='#{sampleEntityBean.id}'/>
+						</h:link>
+						<h:commandLink value="Delete" action='#{sampleEntityBean.delete}' styleClass="btn btn-primary"/>
+					</c:when>
+					<c:otherwise>
+						<h:link value="Cancel" outcome="search" styleClass="btn btn-primary"/>
+					</c:otherwise>
+				</c:choose>
+			</div>
+		</h:form>
+	</ui:define>
+
+</ui:composition>

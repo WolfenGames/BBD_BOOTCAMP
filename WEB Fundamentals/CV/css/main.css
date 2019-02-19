@@ -1,0 +1,109 @@
+h1 {
+    text-align: center;
+    width: 100%;
+    height: 4%;
+}
+
+body {
+    background-image: url(http://www.melovewebdesign.com/wp-content/uploads/2014/03/Blurred_Background_20.jpg);
+    background-size: auto;
+}
+
+.green-solid-border {
+    border: 1px solid green;
+    border-radius: 3px;
+    background-color: azure;
+}
+
+footer {
+    margin-top: 10px;
+    text-align: right;
+    padding-right: 10px;
+    height: 4%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.col-33 {
+    margin: 3px;
+    padding: 2px;
+    width: 33%;
+    height: 100%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.container {
+    height: 85%;
+    padding: 10px;
+}
+
+.prof {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: auto;
+    height: 100%;
+}
+
+.no-border {
+    border: none !important;
+}
+
+.no-fill {
+    background-color: unset;
+}
+
+.div-title {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+thead > th {
+    background-color: grey;
+}
+
+td, th {
+    background-color: unset !important;
+    border-bottom: 1px solid black;
+}
+
+table {
+    background-color: transparent !important;
+}
+
+p {
+    margin: 1px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .col-33 {
+        width: 100%;
+    }
+
+    .prof {
+        height: 50%;
+        width: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    * {
+        word-wrap: normal;
+    }
+
+}
