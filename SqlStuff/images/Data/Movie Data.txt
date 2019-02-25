@@ -1,0 +1,43 @@
+Movies
+
+Ghostbusters (Running time 1h 45m) Release Date: 8 June 1984
+	Director: Ivan Reitman
+	Writers: Dan Aykroyd, Harold Ramis
+	Stars: Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis, Rick Moranis, Ernie Hudson
+	Producer: Ivan Reitman
+Dances With Wolves (Running Time 3h 1min) Release Date: 21 November 1990
+	Director: Kevin Costner
+	Writers: Michael Blake
+	Stars: Kevin Costner, Mary McDonnell
+	Producer: Kevin Costner
+Aliens (Running Time 2h 17m) Release Date: 18 July 1986
+	Director: James Cameron
+	Writers: James Cameron, David Giler
+	Stars: Sigourney Weaver, Michael Biehn, Paul Reiser, Lance Henriksen, Bill Paxton
+	Producer: Gale Anne Hurd
+Bladerunner (Running Time 1h 57) Release Date: 25 June 1982
+	Director: Ridley Scott
+	Writers: Hampton Fancher, David Peoples, Philip K. Dick
+	Stars: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos, Daryl Hannah
+	Producer: Michael Deeley, Hampton Fancher, Brian Kelly
+Prometheus (Running Time 2h 4m) Release Date: 8 June 2012
+	Director: Ridley Scott
+	Writers: Jon Spaihts, Damon Lindelof
+	Stars: Noomi Rapace, Michael Fassbender, Charlize Theron, Idris Elba, Guy Pearce
+	Producer: David Giler, Walter Hill, Ridley Scott
+Alien (Running Time 1h 57m) Release Date: 22 June 1979
+	Director: Ridley Scott
+	Writers: Dan O'Bannon, Ronald Shusett
+	Stars: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm, Yaphet Kotto
+	Producer: Gordon Carroll, David Giler, Walter Hill
+Groundhog Day (RUnning Time 1h 41m) Release Date: 12 February 1993)
+	Director: Harold Ramis
+	Writers: Danny Rubin, Harold Ramis
+	Stars: Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky, Harold Ramis
+	Producer: Trevor Albert, Harold Ramis
+The Matrix (Running time 2h 16m) Release Date: 31 March 1999
+	Director: Lana Wachowski, Lilly Wachowski
+	Writers: Lana Wachowski, Lilly Wachowski
+	Stars: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Joe Pantoliano
+	Producer: Joel Silver, Lana Wachowski, Lilly Wachowski
+	
